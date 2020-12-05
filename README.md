@@ -4,7 +4,7 @@
 
 ### Using a script
 
-[automatic installation script](./scripts/install.sh):
+[automatic installation script](./scripts/install.fish):
 
 ```bash
 curl -fsSL https://functions.vercel.app/install | fish
