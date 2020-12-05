@@ -1,6 +1,3 @@
-# set DIR $PWD
-# echo $DIR
-
 function mr --description 'make_repo make a new fish plugin repo'
     set PROJECT_NAME $argv
     # Create git repo and push the code there
