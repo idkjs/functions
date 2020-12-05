@@ -1,5 +1,4 @@
-# set license read ./LICENSE.md
-# echo $license
+
 set DIR $PWD
 echo $DIR
 echo $DIR/install.fish
