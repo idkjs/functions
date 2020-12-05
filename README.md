@@ -7,7 +7,7 @@
 [automatic installation script](./scripts/install.fish):
 
 ```bash
-curl -fsSL https://functions.vercel.app/install | fish
+curl -fsSL https://functions.idkjs.vercel.app/install | fish
 ```
 
 Run:
