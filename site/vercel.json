@@ -3,7 +3,7 @@
     { "source": "/", "destination": "https://github.com/idkjs/functions" }
   ],
   "rewrites": [
-    { "source": "/scripts/install", "destination": "/install.txt" }
+    { "source": "/scripts/install.fish", "destination": "/install.txt" }
   ],
   "headers": [
     {
