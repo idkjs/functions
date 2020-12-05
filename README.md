@@ -1,6 +1,14 @@
 # Repo Creates Plugins from [`peterpme/dotfiles/bin`](https://github.com/peterpme/dotfiles/bin) wrappers for fish using [bass](https://github.com/edc/bass).
 
-## Installing
+## Install Them All
+
+### Using a script
+
+[automatic installation script](./scripts/install.sh):
+
+```bash
+curl -fsSL https://functions.vercel.app/install | fish
+```
 
 Run:
 
