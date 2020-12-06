@@ -5,7 +5,7 @@ while read -la PROJECT_NAME
     echo $PROJECT_NAME
     cd $PROJECT_NAME
     git add .
-    git commit -m "add script_dir"
+    git commit -m "port to fish:WIP"
     git push origin main
     cd $script_dir
 
